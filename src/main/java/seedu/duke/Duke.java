@@ -28,7 +28,7 @@ public class Duke {
             userInput = u1.readUserInput();
         }
         u1.printBye();
-
+        
     }
 
     private void shootFunction(){
